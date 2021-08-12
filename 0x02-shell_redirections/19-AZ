@@ -1,2 +1,2 @@
 #!/bin/bash
-echo " replace A and c to Z and e " | tr Ac Ze \n
+tr Ac Ze 
