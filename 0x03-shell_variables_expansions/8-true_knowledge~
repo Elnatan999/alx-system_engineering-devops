@@ -1,2 +1,0 @@
-#!/bin/bash
-echo sum=$((128+"TRUEKNOWLEDGE"))
